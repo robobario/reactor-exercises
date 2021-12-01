@@ -8,3 +8,4 @@ content:
 - atomic-ref
 - executor-service
 - completable-future
+- completable-future-compose
