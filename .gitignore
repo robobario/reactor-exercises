@@ -1,0 +1,6 @@
+.gradle
+.idea
+**/build
+.coursecreator
+**/*remote-info.yaml
+Micronauto.zip
