@@ -9,3 +9,4 @@ content:
 - executor-service
 - completable-future
 - completable-future-compose
+- completable-future-executor
