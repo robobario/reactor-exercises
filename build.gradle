@@ -48,6 +48,7 @@ subprojects {
 
     test {
         useJUnitPlatform()
+        testLogging.showStandardStreams = true
     }
 
     mainClassName = project.hasProperty("mainClass") ? project.getProperty("mainClass") : ""

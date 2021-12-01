@@ -4,6 +4,7 @@ content:
 - thread-interrupts
 - synchronisation
 - locking
+- deadlocks
 - synchronisation-statements
 - atomic-int
 - atomic-ref

@@ -5,7 +5,7 @@ Another tool available that is similar but different to synchronization are the 
 ## ReentrantLock
 The re-entrant lock is similar to using synchronized(this) locking, which implicitly uses a lock under the hood. But a ReentrantLock has a `lockInterruptibly` method, so a thread interrupt can be handled. It also has `tryLock` methods with optional timeout so you can control how long it awaits a lock, you can't do that with `synchronized`.
 
-Typicl usage:
+Typical usage:
 ```java
 class X {
    private final ReentrantLock lock = new ReentrantLock();
