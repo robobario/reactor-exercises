@@ -10,3 +10,4 @@ content:
 - completable-future
 - completable-future-compose
 - completable-future-executor
+- queue
