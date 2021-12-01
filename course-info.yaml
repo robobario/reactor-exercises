@@ -1,8 +1,7 @@
 type: marketplace
 title: Reactor
 language: English
-summary: |-
-  This is an introductory Reactor and async java programming course
+summary: This is an introductory Reactor and async java programming course
 programming_language: Java
 content:
-- lesson1
+- java-concurrency
