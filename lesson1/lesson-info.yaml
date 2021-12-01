@@ -2,3 +2,4 @@ content:
 - task1
 - concurrency-gains
 - thread-interrupts
+- synchronisation
