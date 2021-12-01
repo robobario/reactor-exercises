@@ -5,3 +5,4 @@ content:
 - synchronisation
 - synchronisation-statements
 - atomic-int
+- atomic-ref
