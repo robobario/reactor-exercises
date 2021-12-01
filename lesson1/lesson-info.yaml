@@ -3,6 +3,7 @@ content:
 - concurrency-gains
 - thread-interrupts
 - synchronisation
+- locking
 - synchronisation-statements
 - atomic-int
 - atomic-ref
