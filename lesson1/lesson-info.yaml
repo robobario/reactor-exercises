@@ -7,6 +7,7 @@ content:
 - atomic-int
 - atomic-ref
 - executor-service
+- semaphore
 - completable-future
 - completable-future-compose
 - completable-future-executor
