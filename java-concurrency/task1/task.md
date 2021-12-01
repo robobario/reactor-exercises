@@ -8,7 +8,7 @@ To work directly with a thread you construct one, passing it a <a href="psi_elem
 
 ## Task
 
-Start the thread in [Task](course://lesson1/task1/src/task/Task.java) so that it adds the string `called from thread` to the queue. 
+Start the thread in [Task](course://java-concurrency/task1/src/task/Task.java) so that it adds the string `called from thread` to the queue. 
 
 ## Notes
 Note that the thread sleeps for 2 seconds first so it will most likely enter the queue after `called from main`. So you can see from this that starting the thread did not prevent the main thread from continuing with it's work. Nothing is guaranteed of course :)

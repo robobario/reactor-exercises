@@ -8,7 +8,7 @@ Similarly we have multiple cores on modern computers. One thread of execution ca
 
 ## Task
 
-Modify the `concurrent` method of [Task](course://lesson1/concurrency-gains/src/task/Task.java) to do the two sleeps in two different Threads (and join them). This should complete more quickly than the two consecutive sleeps.
+Modify the `concurrent` method of [Task](course://java-concurrency/concurrency-gains/src/task/Task.java) to do the two sleeps in two different Threads (and join them). This should complete more quickly than the two consecutive sleeps.
 
 ## Notes
 

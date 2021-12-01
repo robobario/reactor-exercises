@@ -1,6 +1,6 @@
 # Semaphore
 
-Another high level concurrency class available for coordination is the Semaphore.
+Another high level concurrency class available for coordination is the <a href="psi_element://java.util.concurrent.Semaphore">Semaphore</a>.
 
 > A counting semaphore. Conceptually, a semaphore maintains a set of permits. Each acquire blocks if necessary until a permit is available, and then takes it. Each release adds a permit, potentially releasing a blocking acquirer. However, no actual permit objects are used; the Semaphore just keeps a count of the number available and acts accordingly.
 >

@@ -1,6 +1,6 @@
 # Countdown Latch
 
-Another high level concurrency class available for coordination is the CountdownLatch.
+Another high level concurrency class available for coordination is the <a href="psi_element://java.util.concurrent.CountDownLatch">CountDownLatch</a>.
 
 > A synchronization aid that allows one or more threads to wait until a set of operations being performed in other threads completes.
 >

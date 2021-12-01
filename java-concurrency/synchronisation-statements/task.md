@@ -14,7 +14,7 @@ The above invocation is very similar to synchronizing the method. When you add t
 
 ## Task
 
-Use a synchronized statement in the `inc` method of Counter to avoid the race condition the same way as before.
+Use a `synchronized` statement in the `inc` method of Counter to avoid the race condition the same way as before.
 
 ## Why
 
