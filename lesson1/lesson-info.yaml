@@ -4,3 +4,4 @@ content:
 - thread-interrupts
 - synchronisation
 - synchronisation-statements
+- atomic-int
