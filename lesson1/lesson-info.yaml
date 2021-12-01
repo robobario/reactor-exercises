@@ -8,6 +8,7 @@ content:
 - atomic-ref
 - executor-service
 - semaphore
+- countdown-latch
 - completable-future
 - completable-future-compose
 - completable-future-executor
